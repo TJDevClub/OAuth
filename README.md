@@ -49,3 +49,13 @@ A deeper look at list #1 -
     * To make requests, they send this code to your servers.
     * Your servers exchange this for an access token.
     * They then use this access token to access API services and stuff.
+    
+## Additional Reading
+
+These are some really great resources and you should read these.
+
+A better explanation of how OAuth works
+- https://aaronparecki.com/oauth-2-simplified/
+
+A better explanation of the different types of grants
+- https://alexbilbie.com/guide-to-oauth-2-grants/
